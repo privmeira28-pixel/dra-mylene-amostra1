@@ -1,0 +1,21 @@
+SITE DRA. MYLENE MIRANDA · O QUE FALTA PREENCHER
+=================================================
+
+Montado a partir do Instagram @dra.mylenemiranda (nome, CRO-SP 180228, tratamentos,
+Clínica Faara em São Paulo). WhatsApp, endereço e fotos não estão públicos.
+
+ATENÇÃO: o link da bio do Instagram (dramylenemiranda.s.gy/mylenemiranda) está quebrado.
+Ele leva para um domínio vencido e estacionado na GoDaddy. Vale avisar a cliente.
+
+1. WHATSAPP (obrigatório, num lugar só)
+   - Abra js/script.js e troque 55DDDNUMERO na linha "var WHATSAPP" pelo número
+     completo, só dígitos (ex.: 5511999998888). Os 5 botões do site usam esse número.
+
+2. FOTOS
+   - img/dra-mylene.jpg: foto vertical da doutora (topo do site)
+   - img/consultorio.jpg: foto dela atendendo ou do consultório (seção Sobre)
+   Os comentários no index.html mostram exatamente qual linha trocar.
+
+3. CONFERIR COM A DOUTORA
+   - Textos dos tratamentos e respostas do FAQ.
+   - Se quiser mostrar o endereço da Clínica Faara no site (hoje ele é enviado no agendamento).
